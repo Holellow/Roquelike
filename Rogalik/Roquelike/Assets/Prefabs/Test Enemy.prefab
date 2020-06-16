@@ -159,7 +159,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 715aa933b25280f4983b0007e3b03ffe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 7828218491343428241, guid: b612c6c425ef821448ff2463f2b1138e, type: 3}
   projectile: {fileID: 6078688958060814523, guid: 384fc0193c40d174bacefbd011376e5e,
     type: 3}
   minDamage: 10
@@ -531,7 +530,7 @@ RectTransform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}

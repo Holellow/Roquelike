@@ -1,8 +1,11 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Net.Mime;
 using UnityEngine;
 using UnityEngine.UI;
+
+
 public class PlayerStats : MonoBehaviour
 {
    public static PlayerStats playerStats;
@@ -11,7 +14,7 @@ public class PlayerStats : MonoBehaviour
    public float maxHealth;
    
    public GameObject player;
-
+   
    public Text healthText;
    public Slider healthSlider;
    public Slider manaSlider;
