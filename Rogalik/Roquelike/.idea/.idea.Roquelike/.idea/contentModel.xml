@@ -3,8 +3,8 @@
   <component name="ContentModelStore">
     <e p="C:\Users\Lenovo\.Rider2019.2\config\scratches" t="IncludeRecursive" />
     <e p="C:\Users\Lenovo\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Lenovo\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Roquelike.-1443706011.00" t="ExcludeRecursive" />
-    <e p="H:\Rogalik\Roquelike" t="IncludeRecursive">
+    <e p="C:\Users\Lenovo\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Roquelike.-1277153288.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Lenovo\Desktop\Roquelike\Rogalik\Roquelike" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
@@ -24,6 +24,7 @@
             <e p="TestSpell.cs" t="Include" />
           </e>
         </e>
+        <e p="Training.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />
